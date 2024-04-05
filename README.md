@@ -35,9 +35,8 @@ Please see this link for our deployed website: [Oppenheimer](https://).
 - I didn't realize the home page was separate from the index.html page, Josh again helped me figure that out. 
 - Refresh my knowledge on pushing and committing on a group GitHub project.
 ### Julia
-- first
-- second
-- third
+- I had an issue when it was time to pull it to GitHub. I didn't know how to create a branch, fork or pull request, thankful for claassmates helping me because I had a couple of meltdowns. 
+
 ### Josh
 - I had some issues figuring out how to write up the code for the CSS animation. It took some searching and learning!
 - I had to refresh myself on how to make the images float and wrap text.
